@@ -1,0 +1,9 @@
+#abc {
+  width: 200px;
+  border-style: solid;
+  border-width: thin;
+  background: #efe5de;
+  font-size: 105%;
+  padding: 15px;
+  margin: 0px 10px 10px 10px;
+}
